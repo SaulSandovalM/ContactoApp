@@ -81,6 +81,16 @@
             android:layout_margin="10dp"/>
     </TableRow>
 
-        </TableLayout>
+    </TableLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AVISO DE PRIVACIDAD"
+            android:textAlignment="center"
+            android:typeface="serif"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            android:layout_margin="10dp"/>
+
     </LinearLayout>
 </FrameLayout>
